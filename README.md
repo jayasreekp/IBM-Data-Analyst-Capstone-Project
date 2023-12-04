@@ -1,2 +1,2 @@
-"# IBM-Data-Analyst-Capstone-Project" 
-"# IBM-Data-Analyst-Capstone-Project" 
+We assume the role of a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions
+In order to keep pace with changing technologies and remain competitive, we are  tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. The dataset used is a randomised subset of the survey data of  Stack Overflow, a popular website for developers,which  conducted an online survey of software professionals across the world. We are assigned with Exploring the Data set, Data collection, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboard Creation and Presentation of Findings. The different steps of the Data Analysis are shown in separate notebooks
